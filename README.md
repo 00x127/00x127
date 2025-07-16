@@ -1,5 +1,8 @@
 # 💫 Welcome
-hey! i'm 0x127, i'm a cybersecurity enthusiast and programmer
+hey, i'm 0x127! i'm into cybersecurity and software development.  
+i like digging into low-level systems, analyzing network traffic, and writing tools that do useful (or weird) things.  
+currently exploring web app security, android internals, and protocol behavior.
+
 
 
 ## 🌐 Socials:
