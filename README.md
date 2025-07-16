@@ -1,6 +1,6 @@
 # 💫 Welcome
 hey, i'm 0x127! i'm into cybersecurity and software development.  
-i like digging into low-level systems, analyzing network traffic, and writing tools that do useful (or weird) things.  
+i like digging into low-level systems, analyzing network traffic, and writing tools that make my life easier.  
 currently exploring web app security, android internals, and protocol behavior.
 
 
@@ -14,5 +14,3 @@ currently exploring web app security, android internals, and protocol behavior.
 ![](https://github-readme-stats.vercel.app/api?username=00x127&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=00x127&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00x127&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
