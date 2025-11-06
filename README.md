@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&duration=6000&pause=1000&color=70A5FD&repeat=true&width=435&lines=hey%2C+i'm+0x127)](https://git.io/typing-svg)
 
-**Been coding for a few years, mainly focused on security and software dev.  
+**Been coding for a few years, mainly focused on security and software development.  
 I spend most of my time building tools, modding games, and experimenting with exploits.**
 
 ## 🌐 Socials:
