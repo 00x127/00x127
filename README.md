@@ -17,4 +17,5 @@ I spend most of my time building tools, modding games, and experimenting with ex
 ---
 
 ### Also check out:
-[![Thorioum](https://github.com/Thorioum.png?size=80)](https://github.com/Thorioum)
+[![Thorioum](https://github.com/Thorioum.png?size=80)](https://github.com/Thorioum)[![xpncvr](https://github.com/xpncvr.png?size=80)](https://github.com/xpncvr)
+
