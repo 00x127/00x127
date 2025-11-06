@@ -1,10 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=8000&pause=1000&color=70A5FD&repeat=true&width=435&lines=hey%2C+i'm+0x127)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&duration=6000&pause=1000&color=70A5FD&repeat=true&width=435&lines=hey%2C+i'm+0x127)](https://git.io/typing-svg)
 
-
-**i'm into cybersecurity and software development.  
-i like digging into low level systems, analyzing network traffic, and writing tools that make my life easier.  
-currently exploring web app security, android internals, and protocol behavior.**
-
+**Been coding for a few years, mainly focused on security and software dev.  
+I spend most of my time building tools, modding games, and experimenting with exploits.**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/996887365895340072) 
