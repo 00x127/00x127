@@ -10,7 +10,7 @@ I spend most of my time building web apps, modding games, and experimenting with
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=00x127&show_icons=true&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=00x127&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=00x127&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=00x127&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
