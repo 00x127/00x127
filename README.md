@@ -3,7 +3,7 @@
 **Been coding for a few years, mainly focused on security and software development.  
 I spend most of my time building [web apps](http://www.nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/2C.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
 
-**Co-Owner & Developer @ [NBT Archives](https://discord.gg/VT8r7QFzME)**
+**Owner of @ [NBT Archives](https://discord.gg/VT8r7QFzME) w/ [Tesla](https://github.com/Tesla6426)**
 
 
 # Tech Stack:
