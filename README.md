@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&duration=6000&pause=1000&color=70A5FD&repeat=true&width=435&lines=hey%2C+i'm+0x127)](https://git.io/typing-svg)
 
 **Been coding for a few years, mainly focused on security and software development.  
-I spend most of my time building [web apps](https://nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/2C.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
+I spend most of my time building [web apps](https://nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/dragon.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
 
 **Owner of @ [NBT Archives](https://discord.gg/VT8r7QFzME) w/ [Tesla](https://github.com/Tesla6426)**
 
