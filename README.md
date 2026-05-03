@@ -3,7 +3,7 @@
 **Been coding for a few years, mainly focused on cybersecurity and software development.  
 I spend most of my time building [web apps](https://nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/dragon.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
 
-**Owner of @ [NBT Archives](https://discord.gg/VT8r7QFzME)**
+**Owner @ [NBT Archives](https://discord.gg/VT8r7QFzME)**
 
 
 # Tech Stack:
