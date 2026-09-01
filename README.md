@@ -1,6 +1,6 @@
 ![hey, i'm 0x127](https://readme-svg-typing-generator.vercel.app/api?lines=hey%2C+i%27m+0x127&animation=glitch&color=70A5FD&size=32&duration=20000&pause=1&width=435&height=60)
 
-**Cybersecurity enthusiast and software developer.
+**Cybersecurity enthusiast and software developer.   
 I spend most of my time building [web apps](https://nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/dragon.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
 
 
