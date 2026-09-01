@@ -1,16 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&duration=6000&pause=1000&color=70A5FD&repeat=true&width=435&lines=hey%2C+i'm+0x127)](https://git.io/typing-svg)
+![hey, i'm 0x127](https://readme-svg-typing-generator.vercel.app/api?lines=hey%2C+i%27m+0x127&animation=glitch&color=70A5FD&size=32&duration=20000&pause=1&width=435&height=60)
 
-**Been coding for a few years, mainly focused on cybersecurity and software development.  
-I spend most of my time building [web apps](https://nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/dragon.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
-
-**Owner @ [NBT Archives](https://discord.gg/VT8r7QFzME)**
+**Cybersecurity enthusiast and software developer. I spend most of my time building [web apps](https://nbtarchives.net/), [modding games](https://github.com/00x127/00x127/blob/main/dragon.png), and experimenting with [exploits](https://r0x127.vercel.app/).**
 
 
-# Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white)
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+
+### Tools & Technologies
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square\&logo=opengl\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=flat-square\&logo=metasploit\&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square\&logo=adobeaftereffects\&logoColor=white)
 
 ---
 
-### Also check out:
-[![Thorioum](https://github.com/Thorioum.png?size=80)](https://github.com/Thorioum)[![xpncvr](https://github.com/xpncvr.png?size=80)](https://github.com/xpncvr)
- 
+### Recent Projects
+
+**[NBT Archives](https://nbtarchives.net/)**
+Minecraft NBT archive and community focused on custom items, plugins, and experimentation.
+
+**[Chamelon](https://github.com/00x127/Chameleon)**
+Anti-fingerprinting firefox extension.
+
+---
+
+### Also check out
+
+<a href="https://github.com/Thorioum">
+  <img src="https://github.com/Thorioum.png?size=80" width="60" height="60" alt="Thorioum">
+</a>
+<a href="https://github.com/xpncvr">
+  <img src="https://github.com/xpncvr.png?size=80" width="60" height="60" alt="xpncvr">
+</a>
