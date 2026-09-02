@@ -24,7 +24,9 @@ I spend most of my time building [web apps](https://nbtarchives.net/), [modding 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=flat-square\&logo=metasploit\&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square\&logo=adobeaftereffects\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 
