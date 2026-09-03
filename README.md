@@ -31,8 +31,8 @@ I spend most of my time building [web apps](https://nbtarchives.net/), [modding 
 
 ### Recent Projects
 
-**[NBT Archives](https://nbtarchives.net/)**
-Minecraft NBT archive and community focused on custom items, plugins, and experimentation.
+**[Refract](https://github.com/00x127/refract)**
+Recover an API's hidden request schema from its own validation errors.
 
 **[Chamelon](https://github.com/00x127/Chameleon)**
 Anti-fingerprinting firefox extension.
